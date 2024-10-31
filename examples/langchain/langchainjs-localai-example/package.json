@@ -17,7 +17,7 @@
   "dependencies": {
     "@langchain/community": "^0.0.52",
     "@langchain/openai": "^0.0.28",
-    "langchain": "^0.1.36"
+    "langchain": "^0.3.3"
   },
   "overrides": {
     "@langchain/core": "0.1.5"
